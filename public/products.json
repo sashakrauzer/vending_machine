@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Lay’s",
+    "type": "Chips",
+    "price": 75
+  },
+  {
+    "name": "Coca-Cola",
+    "type": "Drink",
+    "price": 180
+  },
+  {
+    "name": "Light",
+    "type": "Rusks",
+    "price": 220
+  },
+  {
+    "name": "Chaka",
+    "type": "Peanut",
+    "price": 600
+  },
+  {
+    "name": "Water",
+    "type": "Drink",
+    "price": 40
+  },
+  {
+    "name": "Fanta",
+    "type": "Cold drink",
+    "price": 400
+  },
+  {
+    "name": "Nutella",
+    "type": "Chocolate paste",
+    "price": 550
+  },
+  {
+    "name": "Snickers",
+    "type": "Chocolate bar",
+    "price": 199
+  },
+  {
+    "name": "Oreo",
+    "type": "Cookies",
+    "price": 172
+  }
+]
